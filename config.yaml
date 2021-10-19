@@ -7,9 +7,8 @@ disqusShortname: ''
 params:
   banner: spices.jpg
     buttonText: Get Started
-    #subtitle: #|-
-      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      #AND RELEASED UNDER THE CREATIVE COMMONS.
+    subtitle: |-
+      MY PERSONAL WEBSITE
     title: Hi, my name is Vojin Rodic
   blog: {}
   contact:
@@ -34,7 +33,7 @@ params:
     heading: Page couldn't be found
     text: Please visit [this page](/)
   favicon: favicon.ico
-  footer:
+  footer: 
     copyright: VR Asset Management
     enable: yes
     quicklinks:
@@ -58,7 +57,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/vojinrodic/
   image: ''
-  name: Your name
+  name: Vojin Rodic
   navigation:
     button1:
       - name: Get Started
@@ -84,16 +83,16 @@ params:
       - image: lbs.jpg
         subtitle: Brexit analysis
         title: My first R project
-        url: blogs/risk_return
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
+        url: blogs/aliquam
+      - image: stockmarket.jpg
+        subtitle: Risk-return relationship
+        title: Portfolio analysis
+        url: blogs/risk-return
+      - image: london.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
+        title: 
         url: blogs/magna
-      - image: pic04.jpg
+      - image: novisad.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
@@ -116,3 +115,4 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
+
