@@ -7,8 +7,8 @@ disqusShortname: ''
 params:
   banner: spices.jpg
     buttonText: Get Started
-    subtitle: |-
-      MY PERSONAL WEBSITE
+   # subtitle: |-
+      # A RESPONSE SITE TEMPLATE DEVELOPED BY HTML 5 UP AND REALIZED UNDER THE CREATIVE
     title: Hi, my name is Vojin Rodic
   blog: {}
   contact:
