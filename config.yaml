@@ -82,8 +82,8 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Brexit analysis
+        title: My first R project
         url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
