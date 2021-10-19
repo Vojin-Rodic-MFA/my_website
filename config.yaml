@@ -5,9 +5,9 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner: spices.jpg
+  banner:
     buttonText: Get Started
-   # subtitle: |-
+    subtitle: |-
       # A RESPONSE SITE TEMPLATE DEVELOPED BY HTML 5 UP AND REALIZED UNDER THE CREATIVE
     title: Hi, my name is Vojin Rodic
   blog: {}
