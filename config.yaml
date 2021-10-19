@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      # A RESPONSE SITE TEMPLATE DEVELOPED BY HTML 5 UP AND REALIZED UNDER THE CREATIVE
+      MY PERSONAL WEBSITE
     title: Hi, my name is Vojin Rodic
   blog: {}
   contact:
@@ -16,7 +16,7 @@ params:
       - city: London
         country: United Kingdom
         street: Gloucester Place
-        title: Dorset House
+        title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
@@ -24,11 +24,11 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: +447387286627
+      - phone: (+44) 7387286627
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description: MFA Stream A
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
@@ -45,16 +45,16 @@ params:
         #label: Twitter
         #url: https://www.twitter.com
       - icon: fa-facebook
-        label: Facebook
+        label1: Facebook
         url: https://www.facebook.com/vojinrodic.rodic
       - icon: fa-instagram
-        label: Instagram
+        label2: Instagram
         url: https://www.instagram.com/vojin_rodic/?hl=sr
-     # - icon: fa-github
-        label: GitHub
+      - icon: fa-github
+        label3: GitHub
         url: https://www.github.com
       - icon: fa-linkedin
-        label: LinkedIn
+        label4: LinkedIn
         url: https://www.linkedin.com/in/vojinrodic/
   image: ''
   name: Vojin Rodic
@@ -68,51 +68,47 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
+      - name: My first R project
+        url: blogs/aliquam
+      - name: Portfolio analysis
+        url: blogs/risk_return
+      - name: My hometown
         url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: Travelling experience
+        url: blogs/magna
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    #subtitle: By HTML5 Up
+    title: VR
   tiles:
     enable: yes
     showcase:
       - image: lbs.jpg
         subtitle: Brexit analysis
         title: My first R project
-        url: blogs/Vpjin_Rodic
+        url: blogs/aliquam
       - image: stockmarket.jpg
         subtitle: Risk-return relationship
         title: Portfolio analysis
-        url: blogs/risk-return
-      - image: london.jpg
-        subtitle: Lorem Etiam Nullam
-        title: 
-        url: blogs/magna
+        url: blogs/risk_return
       - image: novisad.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Novi Sad
+        title: My hometown
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
-  two:
-    buttonText: Get Started
-    enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
-    url: blogs
+      - image: rome.jpg
+        subtitle: Rome
+        title: Travelling experience
+        url: blogs/magna
+    
+        
+  #two:
+   #buttonText: Get Started
+    #enable: yes
+    #subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+      #\r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
+      #condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+      #pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
+      #Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
+      #amet pharetra et feugiat tempus."
+    #title: Massa libero
+    #url: blogs
 
